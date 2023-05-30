@@ -6,7 +6,7 @@ we are Software Engineering students working on a classification and analysis of
      
      
    
-   
+  Motivation: to gain insights into the most important factor of the cancer treatment which is identifying the diagnosis whether is benign cancer (B) or malignant cancer (M).
 This project done by:
 Razan Barakat
 Reema Almutairi
